@@ -1,0 +1,7 @@
+Emir Çoban:60,70,80
+Nuri Ergezen:50,60,70
+Sefa Koçak:70,80,90
+Salih Aggün:85,63,48
+Isin Yücel:50,99,45
+Sena Yücel:50,99,85
+Fatma Yýlbat:99,98,100
