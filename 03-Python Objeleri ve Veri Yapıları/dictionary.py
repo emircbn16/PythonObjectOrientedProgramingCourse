@@ -28,15 +28,15 @@ users = {
         'address': 'bursa',
         'phone':'1234569'
     },
-    'fatmayilbat': {
+    'erencoban': {
         'age' : 25,
         'roles': ['user'],
-        'email': 'fatma@gmail.com',
+        'email': 'eren@gmail.com',
         'address': 'kayseri',
         'phone':'123456789'
     },
 }
     
-print(users['fatmayilbat']['roles'][0])
+print(users['erencoban']['roles'][0])
 
 

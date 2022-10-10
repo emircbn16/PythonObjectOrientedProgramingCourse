@@ -6,13 +6,13 @@
             'telefon': '531 000 00 01'
         },
         '125': {
-            'ad': 'Fatma',
-            'soyad': 'Yılbat',
+            'ad': 'Eren',
+            'soyad': 'Çoban',
             'telefon': '531 000 00 02'
         },
         '128': {
-            'ad': 'Aslı'
-            'soyad': 'Yılbat'
+            'ad': 'Emre'
+            'soyad': 'Çoban'
             'telefon': '531 000 00 03'
         },
     }
